@@ -1,4 +1,5 @@
 # psmk
+- *WARNING*: This software is completely untested, and was made only as an experiment.
 A simple python script to generate passwords.
 ```
 Usage: psmk [OPTIONS]
